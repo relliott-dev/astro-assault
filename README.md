@@ -6,12 +6,12 @@ This repository contains a 2D space shooter game developed in Unity, designed fo
 
 ## Features
 
-- Dynamic Gameplay: Engage in fast-paced space battles with various enemy types
-- Modular Design: Easily add or modify weapons, ships, and other game elements
-- Customization: Tailor the game experience through scriptable objects and C# scripts
-- Simple Controls: Intuitive controls for an engaging gameplay experience
-- Power-ups and Upgrades: Collect power-ups and weapons to enhance your ship’s abilities
-- Networking: Multiplayer support to battle with or against other players online
+- Engage in fast-paced space battles with various enemy types
+- Easily add or modify weapons, ships, and other game elements
+- Tailor the game experience through scriptable objects and C# scripts
+- Intuitive controls for an engaging gameplay experience
+- Collect power-ups and weapons to enhance your ship’s abilities
+- Multiplayer support to battle with or against other players online
 
 ## Planned Features
 
