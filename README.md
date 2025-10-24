@@ -1,4 +1,4 @@
-# Unity Game
+# Astro Assault
 
 ## Overview
 
@@ -13,9 +13,19 @@ This repository contains a 2D space shooter game developed in Unity, designed fo
 - Power-ups and Upgrades: Collect power-ups and weapons to enhance your ship’s abilities
 - Networking: Multiplayer support to battle with or against other players online
 
+## Planned Features
+
+- Enhanced multiplayer with matchmaking and server browser
+- Campaign mode with progressive missions and difficulty scaling
+- Expanded weapon and upgrade system with visual customization
+- Leaderboards and achievement tracking
+- Soundtrack and audio design improvements
+- Mobile and console builds for cross-platform support
+
 ## Requirements
 
-- Unity
+- Unity 2021 or newer
+- Compatible with Windows, macOS, and Linux builds
 
 ## Installation
 
